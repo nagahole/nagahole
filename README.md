@@ -2,7 +2,7 @@
 
 Software engineer at Strala in San Francisco. Previously a software engineer intern at Jane Street, where I built OCaml RPC servers that split large backtesting jobs across workers.
 
-Computer science graduate from the University of Sydney, where I also tutored Systems Programming in C and Distributed Systems.
+Computer science graduate from the University of Sydney, where I tutored Systems Programming in C and Distributed Systems.
 
 **Selected work**
 
